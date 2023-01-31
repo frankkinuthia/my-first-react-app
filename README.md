@@ -1,3 +1,7 @@
+### Project details
+
+Create a movie listing dynamic website using the OMDB API.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
